@@ -1,0 +1,2 @@
+user_already_exist_exception: '이미 사용 중인 이메일 입니다.'
+invalid_email_or_password: '이메일 혹은 비밀번호가 일치하지 않습니다.'

@@ -1,0 +1,2 @@
+user_already_exist_exception: 'email already exist'
+invalid_email_or_password: 'invalid email or password'
