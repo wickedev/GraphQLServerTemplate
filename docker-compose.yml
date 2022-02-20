@@ -9,7 +9,7 @@ services:
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-template}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-template}
-      POSTGRES_DB: ${MYSQL_DATABASE:-template}
+      POSTGRES_DB: ${POSTGRES_DATABASE:-template}
     networks:
       - database
     ports:
